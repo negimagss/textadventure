@@ -1,0 +1,33 @@
+db.g.insert({scene:"scene1" , text: "You wake up in a dark cave, your eternal resting place. Your resurrection is the result of some unfinished business, as it always is with the Undead."})
+db.g.insert({scene:"scene2" , text: "You wake up in a dark cave. Your memory is a bit hazy and your head aches similarly to when one has a hangover."})
+
+
+
+
+db.g.insert({scene:"scene3" , text: "'So this is what a hangover feels like.' However, what you really want to know is how you ended up in this cave. You have not sustained any injuries, so you suspect foul play."})
+
+db.g.insert({scene:"scene4" , text: "It's been many years since you had a drink, not since the aftermath of the Great Cataclysmic War. But that stands the question, how did you end up in this cave? You have not sustained any injuries, so you suspect foul play."})
+
+db.g.insert({scene:"scene5" , text: "You boozehound, you. You tell yourself that's the last time you split a keg of Ye Ol' English with your medieval boys. But that stands the question, how did you end up in this cave?"})
+
+db.g.insert({scene:"scene6" , text: "Judging by how many bones protrude from your rotting flesh, you have been dead for a few weeks. Your inventory is full of the items you were buried with. You have retained few memories from your time among the living other than the memories connected to your unfinished business."})
+
+db.g.insert({scene:"scene7" , text: "You lived as a simple retired mercenary. You spent your time looking for odd jobs in the land of Ulmeyda until your death in the year 108 of our Lord Cloudman's reign when you were killed in a duel against Bert the Ruthless. Your death was an honorable one, yet something else has rekindled your soul..."})
+
+db.g.insert({scene:"scene8" , text: "You aren't sure how long you've been out, but your inventory is the same as you left it. You are certain that the year is 108 of our Lord Cloudman's reign, you live in the land of Ulmeyda, and you are a simple retired mercenary looking for odd jobs. Otherwise, the last memory you have before blacking out is of checking your empty pockets at the market which made you think of..."})
+
+
+db.g.insert({scene:"scene9" , text: "...that goddamn Gerald the Spineless. That guy owes you $14. He said he'd pay you back before your duel in case you didn't survive, but that bum blew you off. Your eternal soul will not be able to rest until you reclaim the honor and glory of your $14 legacy!"})
+
+
+db.g.insert({scene:"scene21" , text: "...that goddamn Gerald the Spineless. That guy owes you $14. He said he'd pay you back, but that was like forever ago. Your purpose is now clear, inspiring you to blaze a tireless trail through out the land searching for the subject of your hatred: Gerald and his bullshit."})
+
+
+db.g.insert({scene:"scene22" , text: "As you exit the cave, the bright change in light causes you to wince. As your vision adjusts, you realize you aren't sure where you are in Ulmeyda. Thankfully, a town is visible from where you stand."})
+
+
+db.g.insert({scene:"scene23" , text: "Who cares about the plot or the game developer's hardwork? Just make it easy for yourself and say you are on a quest to get $14 owed to you by some villain named...I dunno...Gerald...the Lame. You exit the cave drooling for action and see a town in the distance."})
+
+
+db.g.insert({scene:"scene24" , text: "As you begin to leave an enemy encounters you. It's a one-legged frog approaching with a loaded musket and a crutch. Don't count this amphibian out though, it has seen some battles, it has been in the trenchs. The frog on his last leg in it for one more battle, and you better prepare yourself."})
+
